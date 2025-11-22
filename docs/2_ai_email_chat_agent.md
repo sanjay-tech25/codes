@@ -39,24 +39,17 @@ This setup enables automated AI-powered responses inside n8n chat interactions.
 
 # 3. Implementation Screenshot
 
-Below is the workflow you provided:
+Your workflow should look like this:
 
-
-
-
-
-
-
-
-
-
-   
+<img width="1920" height="943" alt="▶️ My workflow 2 - n8n - Google Chrome 21-11-2025 12_11_40" src="https://github.com/user-attachments/assets/f17793bc-7836-4f11-af2b-0548909bef4f" />
 
 ---
 
 # 4. Output Screenshot
 
-*(Insert your chat response screenshot or workflow execution result here.)*
+A mail should have reached the recipient mail like this:
+
+<img width="1920" height="1032" alt="Here&#39;s the information - sanjaynewbie2@gmail com - Gmail - Google Chrome 22-11-2025 11_11_06" src="https://github.com/user-attachments/assets/97d6c598-82e3-4595-acb6-37af2c2e77af" />
 
 ---
 
