@@ -11,7 +11,7 @@ This workflow uses Gmail authentication and an Email node to deliver the message
 1. Visit the official n8n website: https://www.n8n.io  
 2. Create a new account or sign in if you already have one.  
 3. In your personal folder, create a **new empty workflow**.
-
+4. 
 ---
 
 ## **Create the ONCLICK Email Workflow**
